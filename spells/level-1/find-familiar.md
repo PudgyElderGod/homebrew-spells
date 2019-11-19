@@ -19,10 +19,10 @@
 ## Description
 You gain the service of a bound spirit that hails from another plane of existance.
 Typically, this spirit come from the Feywild, the Nine Hells, or Elysium.
-When you cast this spell, this immortal entity is mystically selected and bonded to you.
+When you first cast this spell, this immortal entity is mystically selected and bonded to you.
 
 Once your companion spirit is selected, you channel it into a beast that you must hold or touch for the spell's casting duration.
-This spell can only affect limited selection of animals (at the DM's discretion, other animals might be available):
+This spell can only affect limited selection of animals (at the DM's discretion):
 - bats
 - cats
 - crabs
@@ -41,21 +41,21 @@ This spell can only affect limited selection of animals (at the DM's discretion,
 
 When the spell completes, it fuses your companion spirit with the animal's body.
 A mystic symbiosis forms, creating a familiar&mdash;boosting the animal's self-awareness, and gifting the bound spirit with a new mortal form.
-Your familiar keeps the statistics of its chosen form and is **charmed** by you.
+Your familiar keeps the statistics of its beast form and is **charmed** by you.
 
-While your familiar is **charmed** by you in this way, you form a telepathic link with it while you are within 120 feet of one another.
-Through the link, your familiar can understand your telepathic messages to it, and it can telepathically communicate simple emotions and concepts back to you.
-Once per round, you can use your bonus action to issue commands to the beast through the link, and it obeys as best as it can.
+While your familiar is **charmed** by you in this way, you establish a telepathic link with it while you are within 120 feet of one another.
+Through the link, your familiar can understand your telepathic messages to it, and it can telepathically communicate simple concepts and emotions back to you.
+Once per round, you can use your action to issue commands to your familiar through the link, and it obeys as best as it can.
 Otherwise, your familiar acts on its own, focusing on protecting itself and you.
-Your familiar rolls its own initiative, however it can choose to take its turn directly after you on your initiative count.
+Your familiar rolls its own initiative.
 
 You can use your action to see through your familiar's eyes and hear what it hears, and continue to do so until you use your action to return to your normal senses.
 During this time, you gain the benefits of any special senses possessed by your familiar, though you are **blinded**, **deafened**, and **stunned** as your body reels from temporarily shutting down.
-Also as an action, you can cause your familiar to teleport to any unoccupied space within 5 feet of you, or to a safe location that you are both familiar with.
-Any items that the familiar is carrying are not teleported with it.
+Also as an action, you can cause your familiar to teleport to an unoccupied space within 5 feet of you.
+Any items that your familiar is carrying are not teleported with it.
 
 When you cast a spell with a range of touch, your familiar can deliver the spell as if it had cast the spell.
-Your familiar must be within 120 feet of you, and it must use its action to deliver the spell when you cast it.
+Your familiar must be within 120 feet of you, and it must use its reaction to deliver the spell when you cast it.
 If the spell requires an Attack Roll or Saving Throw, you use your own spellcasting statistics for the roll.
 
 You can't have more than one familiar at a time.
