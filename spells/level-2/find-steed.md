@@ -56,8 +56,6 @@ When your steed drops to 0 hit points, the animal dies, and your companion spiri
 
 ---
 
-**Classes:** paladin
-
 **Sources:** PHB, page 240
 
 **Quality Assurance:** :sparkles: coming along

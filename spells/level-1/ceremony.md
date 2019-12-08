@@ -18,7 +18,7 @@
 
 ## Description
 You perform a special religious ceremony that is infused with magic.
-When you cast the spell, choose one of the following rites, the target of which must be within 10 feet of you throughout the casting.
+When you cast the spell, choose one of the following rites, the target of which must be within 10 feet of you for the spell's casting time.
 A creature can only have one lasting benefit from this spell at a time.
 
 If you or the target of this spell does anything that clearly disrespects or corrupts the purpose of this sacred ritual, divine retribution may be cast upon you and any targets of this spell.
@@ -62,8 +62,6 @@ For the next 7 days, each target gains a `+5` bonus to AC while they are within 
 A creature can benefit from this rite again only if widowed.
 
 ---
-
-**Classes:** cleric, druid, paladin
 
 **Sources:** XGE, page 151; UA-SS, page 2
 

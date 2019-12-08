@@ -12,17 +12,17 @@
 
 **Shape:** cube
 
-**Length:** 1 foot
+**Length:** 5 foot
 
 **Tags:** verbal, somatic, concentration
 
 ---
 
 ## Description
-You conjure a chilled ocean mist inside a 1-foot-long cube originating from a point that you can see within range, which obscures its area.
-Any water or air that enters the cube's space slowly becomes cold and briny.
+You conjure chilled ocean mists inside a 5-foot-long cube originating from a point that you can see within range, which obscures its area.
+Any air or water that enters the cube's space slowly becomes cold and briny.
 
-Once per round, you can cause the cube to spout 5 gallons of saltwater as a bonus action.
+Once per round, you can cause the cube to spew out 5 gallons of saltwater as a bonus action.
 The water spills and pours from the cube unless there is something to contain it.
 
 ## At Higher Levels
@@ -30,10 +30,8 @@ When you cast this spell using a spell slot of 1st level or higher, the cube gen
 
 ---
 
-**Classes:** druid, sorcerer, warlock, wizard, artificer
-
 **Sources:** XGE, page 152
 
 **References:** create bonfire
 
-**Quality Assurance:** :star: personal pass
+**Quality Assurance:** :star2: consistency pass

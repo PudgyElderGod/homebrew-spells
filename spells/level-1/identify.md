@@ -17,7 +17,7 @@
 ---
 
 ## Description
-Choose one creature or object that you must hold or touch for the spell's casting duration.
+Choose one creature or object that you must hold or touch for the spell's casting time.
 You learn whether any schools of magic affecting the target and what they are.
 You also learn whether any spells are affecting the target and what they are.
 If the target was created by a spell, you learn which spell created it.
@@ -26,10 +26,6 @@ If the target is a magic item or some other magic-imbued object, you learn its p
 This spell doesn't reveal any curses afflicting or imbued within the target.
 
 ---
-
-**Classes:** bard, wizard, artificer
-
-**Subclasses:** knowledge cleric, forge cleric
 
 **Sources:** PHB, page 252
 

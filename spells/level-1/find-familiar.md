@@ -21,7 +21,7 @@ You gain the service of a bound spirit that hails from another plane of existanc
 Typically, this spirit come from the Feywild, the Nine Hells, or Elysium.
 When you first cast this spell, this immortal entity is mystically selected and bonded to you.
 
-Once your companion spirit is selected, you channel it into a beast that you must hold or touch for the spell's casting duration.
+Once your companion spirit is selected, you channel it into a beast that you must hold or touch for the spell's casting time.
 This spell can only affect limited selection of animals (at the DM's discretion):
 - bats
 - cats
@@ -63,8 +63,6 @@ If you cast this spell while you already have a familiar, you can transfer your 
 When your familiar drops to 0 hit points, the animal dies, and your companion spirit drifts to its home plane until you cast this spell again.
 
 ---
-
-**Classes:** wizard
 
 **Sources:** PHB, page 240
 

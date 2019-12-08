@@ -33,8 +33,6 @@ The beast rolls its own initiative.
 
 ---
 
-**Classes:** druid, ranger
-
 **Sources:** XGE, page 150
 
 **Quality Assurance:** :star: personal pass

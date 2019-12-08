@@ -27,8 +27,6 @@ You can end this spell at any time (no action required).
 
 ---
 
-**Classes:** wizard
-
 **Sources:** PHB, page 265
 
 **Quality Assurance:** :sparkles: modified but not perfected

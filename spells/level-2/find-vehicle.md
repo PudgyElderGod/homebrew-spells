@@ -58,10 +58,6 @@ When your steed drops to 0 hit points, the construct is destroyed, and your comp
 
 ---
 
-**Classes:** warlock, sorcerer, wizard
-
-**Subclasses:** city cleric
-
 **Sources:** UA-MM, page 6
 
 **Quality Assurance:** :sparkles: coming along
