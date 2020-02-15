@@ -6,7 +6,7 @@
 - **Duration:** 5 minutes
 - **Range:** 120 feet
 - **Shape:** sphere
-- **Radius*:** 20 feet
+- **Radius:** 20 feet
 - **Tags:** somatic, material, concentration
 - **Material Components:** a glowing stick of incense or a crystal vial filled with phosphorescent material
 
