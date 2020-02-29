@@ -5,7 +5,7 @@
 - **Casting Time:** action
 - **Duration:** 5 minutes
 - **Range:** self
-- **Tags:** verbal
+- **Tags:** verbal, concentration
 
 ---
 
