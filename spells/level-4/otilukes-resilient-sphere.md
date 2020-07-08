@@ -3,7 +3,7 @@
 
 ***4th-level evocation***
 - **Casting Time:** action
-- **Duration:** 1 minute
+- **Duration:** 5 minutes
 - **Range:** 30 feet
 - **Tags:** verbal, somatic, material, concentration
 - **Material Components:** a hemispherical piece of clear crystal and a matching hemispherical piece of gum arabic
